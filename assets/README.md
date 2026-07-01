@@ -3,4 +3,4 @@
 This folder contains:
 - Project logo
 - Banner
-- Icons
+- Icons and More
