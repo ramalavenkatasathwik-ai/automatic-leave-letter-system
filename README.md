@@ -103,3 +103,25 @@ automatic-leave-letter-system/
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## 📸 Project Screenshots
+
+### Google Form
+
+![Google Form](screenshots/Google_Form.png)
+
+### Google Sheet
+
+![Google Sheet](screenshots/Google_Sheet.png)
+
+### Apps Script
+
+![Apps Script](screenshots/Apps_Script.png)
+
+### Trigger Configuration
+
+![Trigger](screenshots/Trigger.png)
+
+### Email Output
+
+![Email Output](screenshots/Gmail_Output.png)
